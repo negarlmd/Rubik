@@ -85,7 +85,7 @@ This project was created to practice:
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://negarlmd.github.io/3D-Cube/)
+https://negarlmd.github.io/Rubik/
 ## 👩‍💻 Author
 
 **Negar Valimohammadi**
